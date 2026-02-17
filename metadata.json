@@ -1,0 +1,7 @@
+{
+  "name": "Casarão da XV - Premium Experience",
+  "description": "A high-conversion luxury SPA for Casarão da XV Pizzeria, blending rustic tradition with contemporary elegance.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
